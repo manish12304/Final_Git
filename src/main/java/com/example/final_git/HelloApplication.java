@@ -28,6 +28,7 @@ public class HelloApplication extends Application {
         System.out.println("1 more");
         System.out.println("2 more");
         System.out.println("3 more");
+        System.out.println("4 more");
         //hello
     }
 }
