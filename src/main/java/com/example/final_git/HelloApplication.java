@@ -25,6 +25,7 @@ public class HelloApplication extends Application {
         System.out.println("ljlkjlj");
         System.out.println("ljlkjlj");
         System.out.println("ljlkjlj");
+        System.out.println("1 more");
         //hello
     }
 }
